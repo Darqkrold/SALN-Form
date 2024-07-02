@@ -1,0 +1,28 @@
+.root{
+	-fx-background-color:  #1B1B1B;
+
+}
+
+.EmpUsernameText {
+	-fx-font-family: 'Poppins';
+
+}
+
+#EmpPassText{
+	-fx-font-family: 'Geometric Sans Serif';
+	
+	
+}
+
+#EmployeeIDLabel{
+	-fx-font-family: 'Poppins'
+}
+
+
+
+#SignInButton{
+	
+}
+
+
+
